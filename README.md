@@ -1,1 +1,2 @@
-# SignalStudio
+# Signal Studio
+## SHINY SUIT THEORY
