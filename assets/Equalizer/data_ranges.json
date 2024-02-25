@@ -1,0 +1,52 @@
+{
+    "animal_freq_ranges": {
+        "Owl": [
+            0,
+            820
+        ],
+        "Horse": [
+            820,
+            2500
+        ],
+        "Songbird": [
+            2500,
+            5000
+        ],
+        "Snake": [
+            5000,
+            11000
+        ]
+    },
+    "music_instrument_ranges": {
+        "Counter Bass": [
+            0,
+            125
+        ],
+        "Cello": [
+            125,
+            400
+        ],
+        "Piccolo": [
+            400,
+            700
+        ],
+        "Violin": [
+            700,
+            6000
+        ]
+    },
+    "ecg_arrythmia_ranges": {
+        "comp 1": [
+            0,
+            1
+        ],
+        "comp 2": [
+            1,
+            7
+        ],
+        "comp 3": [
+            1,
+            8
+        ]
+    }
+}

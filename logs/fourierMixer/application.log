@@ -1,0 +1,324 @@
+2024-02-25 22:44:02,161 - DEBUG - uiname is MainWindow
+2024-02-25 22:44:02,161 - DEBUG - toplevel widget is MixerWindow
+2024-02-25 22:44:02,161 - DEBUG - setting property geometry
+2024-02-25 22:44:02,161 - DEBUG - setting property windowTitle
+2024-02-25 22:44:02,161 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,162 - DEBUG - push MixerWindow MainWindow
+2024-02-25 22:44:02,162 - DEBUG - push QWidget centralwidget
+2024-02-25 22:44:02,162 - DEBUG - setting property pyuicMargins
+2024-02-25 22:44:02,162 - DEBUG - push QGridLayout gridLayout
+2024-02-25 22:44:02,162 - DEBUG - push QVBoxLayout verticalLayout_7
+2024-02-25 22:44:02,163 - DEBUG - push QHBoxLayout horizontalLayout_8
+2024-02-25 22:44:02,164 - DEBUG - push QVBoxLayout verticalLayout_5
+2024-02-25 22:44:02,164 - DEBUG - push QHBoxLayout horizontalLayout_6
+2024-02-25 22:44:02,164 - DEBUG - push QVBoxLayout verticalLayout
+2024-02-25 22:44:02,226 - DEBUG - uiname is ImageOutport
+2024-02-25 22:44:02,227 - DEBUG - toplevel widget is ImageOutport
+2024-02-25 22:44:02,227 - DEBUG - setting property geometry
+2024-02-25 22:44:02,227 - DEBUG - setting property windowTitle
+2024-02-25 22:44:02,227 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,227 - DEBUG - push ImageOutport ImageOutport
+2024-02-25 22:44:02,227 - DEBUG - push QGridLayout gridLayout
+2024-02-25 22:44:02,227 - DEBUG - push QVBoxLayout verticalLayout
+2024-02-25 22:44:02,237 - DEBUG - push QComboBox FTCombobox
+2024-02-25 22:44:02,238 - DEBUG - pop widget QComboBox FTCombobox
+2024-02-25 22:44:02,238 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0b0698edd0>
+2024-02-25 22:44:02,239 - DEBUG - push QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,240 - DEBUG - push GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,240 - DEBUG - pop widget GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,240 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0b0698edd0>
+2024-02-25 22:44:02,241 - DEBUG - push GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,241 - DEBUG - pop widget GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,241 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0b0698edd0>
+2024-02-25 22:44:02,241 - DEBUG - pop layout QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,241 - DEBUG - pop layout QVBoxLayout verticalLayout
+2024-02-25 22:44:02,241 - DEBUG - pop layout QGridLayout gridLayout
+2024-02-25 22:44:02,241 - DEBUG - pop widget ImageOutport ImageOutport
+2024-02-25 22:44:02,241 - DEBUG - new topwidget None
+2024-02-25 22:44:02,254 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,254 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,255 - DEBUG - push ImageOutport Image1
+2024-02-25 22:44:02,256 - DEBUG - pop widget ImageOutport Image1
+2024-02-25 22:44:02,256 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,256 - DEBUG - push QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,256 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,256 - DEBUG - setting property maximum
+2024-02-25 22:44:02,256 - DEBUG - setting property orientation
+2024-02-25 22:44:02,256 - DEBUG - push QSlider SliderImage1
+2024-02-25 22:44:02,256 - DEBUG - pop widget QSlider SliderImage1
+2024-02-25 22:44:02,256 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,256 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,256 - DEBUG - setting property text
+2024-02-25 22:44:02,256 - DEBUG - push QLabel LabelImage1
+2024-02-25 22:44:02,256 - DEBUG - pop widget QLabel LabelImage1
+2024-02-25 22:44:02,256 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,256 - DEBUG - pop layout QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,256 - DEBUG - pop layout QVBoxLayout verticalLayout
+2024-02-25 22:44:02,256 - DEBUG - push QVBoxLayout verticalLayout_2
+2024-02-25 22:44:02,258 - DEBUG - uiname is ImageOutport
+2024-02-25 22:44:02,258 - DEBUG - toplevel widget is ImageOutport
+2024-02-25 22:44:02,258 - DEBUG - setting property geometry
+2024-02-25 22:44:02,258 - DEBUG - setting property windowTitle
+2024-02-25 22:44:02,258 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,258 - DEBUG - push ImageOutport ImageOutport
+2024-02-25 22:44:02,258 - DEBUG - push QGridLayout gridLayout
+2024-02-25 22:44:02,258 - DEBUG - push QVBoxLayout verticalLayout
+2024-02-25 22:44:02,259 - DEBUG - push QComboBox FTCombobox
+2024-02-25 22:44:02,259 - DEBUG - pop widget QComboBox FTCombobox
+2024-02-25 22:44:02,259 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c64c10>
+2024-02-25 22:44:02,259 - DEBUG - push QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,260 - DEBUG - push GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,260 - DEBUG - pop widget GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,260 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c64c10>
+2024-02-25 22:44:02,261 - DEBUG - push GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,261 - DEBUG - pop widget GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,261 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c64c10>
+2024-02-25 22:44:02,261 - DEBUG - pop layout QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,261 - DEBUG - pop layout QVBoxLayout verticalLayout
+2024-02-25 22:44:02,261 - DEBUG - pop layout QGridLayout gridLayout
+2024-02-25 22:44:02,261 - DEBUG - pop widget ImageOutport ImageOutport
+2024-02-25 22:44:02,261 - DEBUG - new topwidget None
+2024-02-25 22:44:02,272 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,272 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,273 - DEBUG - push ImageOutport Image2
+2024-02-25 22:44:02,273 - DEBUG - pop widget ImageOutport Image2
+2024-02-25 22:44:02,273 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,273 - DEBUG - push QHBoxLayout horizontalLayout_2
+2024-02-25 22:44:02,273 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,273 - DEBUG - setting property maximum
+2024-02-25 22:44:02,273 - DEBUG - setting property orientation
+2024-02-25 22:44:02,273 - DEBUG - push QSlider SliderImage2
+2024-02-25 22:44:02,273 - DEBUG - pop widget QSlider SliderImage2
+2024-02-25 22:44:02,273 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,273 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,273 - DEBUG - setting property text
+2024-02-25 22:44:02,273 - DEBUG - push QLabel LabelImage2
+2024-02-25 22:44:02,274 - DEBUG - pop widget QLabel LabelImage2
+2024-02-25 22:44:02,274 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,274 - DEBUG - pop layout QHBoxLayout horizontalLayout_2
+2024-02-25 22:44:02,274 - DEBUG - pop layout QVBoxLayout verticalLayout_2
+2024-02-25 22:44:02,274 - DEBUG - pop layout QHBoxLayout horizontalLayout_6
+2024-02-25 22:44:02,274 - DEBUG - push QHBoxLayout horizontalLayout_5
+2024-02-25 22:44:02,274 - DEBUG - push QVBoxLayout verticalLayout_4
+2024-02-25 22:44:02,275 - DEBUG - uiname is ImageOutport
+2024-02-25 22:44:02,275 - DEBUG - toplevel widget is ImageOutport
+2024-02-25 22:44:02,275 - DEBUG - setting property geometry
+2024-02-25 22:44:02,275 - DEBUG - setting property windowTitle
+2024-02-25 22:44:02,275 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,276 - DEBUG - push ImageOutport ImageOutport
+2024-02-25 22:44:02,276 - DEBUG - push QGridLayout gridLayout
+2024-02-25 22:44:02,276 - DEBUG - push QVBoxLayout verticalLayout
+2024-02-25 22:44:02,276 - DEBUG - push QComboBox FTCombobox
+2024-02-25 22:44:02,276 - DEBUG - pop widget QComboBox FTCombobox
+2024-02-25 22:44:02,277 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c8c670>
+2024-02-25 22:44:02,277 - DEBUG - push QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,277 - DEBUG - push GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,277 - DEBUG - pop widget GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,278 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c8c670>
+2024-02-25 22:44:02,278 - DEBUG - push GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,278 - DEBUG - pop widget GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,278 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c8c670>
+2024-02-25 22:44:02,278 - DEBUG - pop layout QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,278 - DEBUG - pop layout QVBoxLayout verticalLayout
+2024-02-25 22:44:02,278 - DEBUG - pop layout QGridLayout gridLayout
+2024-02-25 22:44:02,278 - DEBUG - pop widget ImageOutport ImageOutport
+2024-02-25 22:44:02,279 - DEBUG - new topwidget None
+2024-02-25 22:44:02,288 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,289 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,290 - DEBUG - push ImageOutport Image3
+2024-02-25 22:44:02,290 - DEBUG - pop widget ImageOutport Image3
+2024-02-25 22:44:02,290 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,290 - DEBUG - push QHBoxLayout horizontalLayout_4
+2024-02-25 22:44:02,290 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,290 - DEBUG - setting property maximum
+2024-02-25 22:44:02,290 - DEBUG - setting property orientation
+2024-02-25 22:44:02,290 - DEBUG - push QSlider SliderImage3
+2024-02-25 22:44:02,290 - DEBUG - pop widget QSlider SliderImage3
+2024-02-25 22:44:02,290 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,290 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,290 - DEBUG - setting property text
+2024-02-25 22:44:02,290 - DEBUG - push QLabel LabelImage3
+2024-02-25 22:44:02,290 - DEBUG - pop widget QLabel LabelImage3
+2024-02-25 22:44:02,291 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,291 - DEBUG - pop layout QHBoxLayout horizontalLayout_4
+2024-02-25 22:44:02,291 - DEBUG - pop layout QVBoxLayout verticalLayout_4
+2024-02-25 22:44:02,291 - DEBUG - push QVBoxLayout verticalLayout_3
+2024-02-25 22:44:02,293 - DEBUG - uiname is ImageOutport
+2024-02-25 22:44:02,293 - DEBUG - toplevel widget is ImageOutport
+2024-02-25 22:44:02,293 - DEBUG - setting property geometry
+2024-02-25 22:44:02,293 - DEBUG - setting property windowTitle
+2024-02-25 22:44:02,294 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,294 - DEBUG - push ImageOutport ImageOutport
+2024-02-25 22:44:02,294 - DEBUG - push QGridLayout gridLayout
+2024-02-25 22:44:02,294 - DEBUG - push QVBoxLayout verticalLayout
+2024-02-25 22:44:02,294 - DEBUG - push QComboBox FTCombobox
+2024-02-25 22:44:02,295 - DEBUG - pop widget QComboBox FTCombobox
+2024-02-25 22:44:02,295 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c8fd90>
+2024-02-25 22:44:02,295 - DEBUG - push QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,295 - DEBUG - push GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,296 - DEBUG - pop widget GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,296 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c8fd90>
+2024-02-25 22:44:02,296 - DEBUG - push GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,296 - DEBUG - pop widget GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,296 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8c8fd90>
+2024-02-25 22:44:02,296 - DEBUG - pop layout QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,296 - DEBUG - pop layout QVBoxLayout verticalLayout
+2024-02-25 22:44:02,297 - DEBUG - pop layout QGridLayout gridLayout
+2024-02-25 22:44:02,297 - DEBUG - pop widget ImageOutport ImageOutport
+2024-02-25 22:44:02,297 - DEBUG - new topwidget None
+2024-02-25 22:44:02,307 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,307 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,309 - DEBUG - push ImageOutport Image4
+2024-02-25 22:44:02,309 - DEBUG - pop widget ImageOutport Image4
+2024-02-25 22:44:02,309 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,309 - DEBUG - push QHBoxLayout horizontalLayout_3
+2024-02-25 22:44:02,309 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,309 - DEBUG - setting property maximum
+2024-02-25 22:44:02,309 - DEBUG - setting property orientation
+2024-02-25 22:44:02,309 - DEBUG - push QSlider SliderImage4
+2024-02-25 22:44:02,309 - DEBUG - pop widget QSlider SliderImage4
+2024-02-25 22:44:02,309 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,309 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,310 - DEBUG - setting property text
+2024-02-25 22:44:02,310 - DEBUG - push QLabel LabelImage4
+2024-02-25 22:44:02,310 - DEBUG - pop widget QLabel LabelImage4
+2024-02-25 22:44:02,310 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,310 - DEBUG - pop layout QHBoxLayout horizontalLayout_3
+2024-02-25 22:44:02,310 - DEBUG - pop layout QVBoxLayout verticalLayout_3
+2024-02-25 22:44:02,310 - DEBUG - pop layout QHBoxLayout horizontalLayout_5
+2024-02-25 22:44:02,310 - DEBUG - pop layout QVBoxLayout verticalLayout_5
+2024-02-25 22:44:02,310 - DEBUG - push QVBoxLayout verticalLayout_6
+2024-02-25 22:44:02,310 - DEBUG - push QHBoxLayout horizontalLayout_7
+2024-02-25 22:44:02,310 - DEBUG - setting property text
+2024-02-25 22:44:02,310 - DEBUG - push QRadioButton Output1Check
+2024-02-25 22:44:02,310 - DEBUG - pop widget QRadioButton Output1Check
+2024-02-25 22:44:02,310 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,310 - DEBUG - setting property text
+2024-02-25 22:44:02,310 - DEBUG - push QRadioButton Output2Check
+2024-02-25 22:44:02,310 - DEBUG - pop widget QRadioButton Output2Check
+2024-02-25 22:44:02,310 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,311 - DEBUG - setting property text
+2024-02-25 22:44:02,311 - DEBUG - push QCheckBox ROICheckbox
+2024-02-25 22:44:02,311 - DEBUG - pop widget QCheckBox ROICheckbox
+2024-02-25 22:44:02,311 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,311 - DEBUG - setting property text
+2024-02-25 22:44:02,311 - DEBUG - push QPushButton ApplyButton
+2024-02-25 22:44:02,311 - DEBUG - pop widget QPushButton ApplyButton
+2024-02-25 22:44:02,311 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,311 - DEBUG - pop layout QHBoxLayout horizontalLayout_7
+2024-02-25 22:44:02,312 - DEBUG - uiname is ImageOutport
+2024-02-25 22:44:02,312 - DEBUG - toplevel widget is ImageOutport
+2024-02-25 22:44:02,312 - DEBUG - setting property geometry
+2024-02-25 22:44:02,312 - DEBUG - setting property windowTitle
+2024-02-25 22:44:02,312 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,312 - DEBUG - push ImageOutport ImageOutport
+2024-02-25 22:44:02,312 - DEBUG - push QGridLayout gridLayout
+2024-02-25 22:44:02,312 - DEBUG - push QVBoxLayout verticalLayout
+2024-02-25 22:44:02,313 - DEBUG - push QComboBox FTCombobox
+2024-02-25 22:44:02,313 - DEBUG - pop widget QComboBox FTCombobox
+2024-02-25 22:44:02,313 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8ca7d90>
+2024-02-25 22:44:02,313 - DEBUG - push QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,314 - DEBUG - push GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,314 - DEBUG - pop widget GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,314 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8ca7d90>
+2024-02-25 22:44:02,315 - DEBUG - push GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,315 - DEBUG - pop widget GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,315 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8ca7d90>
+2024-02-25 22:44:02,315 - DEBUG - pop layout QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,315 - DEBUG - pop layout QVBoxLayout verticalLayout
+2024-02-25 22:44:02,315 - DEBUG - pop layout QGridLayout gridLayout
+2024-02-25 22:44:02,315 - DEBUG - pop widget ImageOutport ImageOutport
+2024-02-25 22:44:02,315 - DEBUG - new topwidget None
+2024-02-25 22:44:02,326 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,326 - DEBUG - setting property maximumSize
+2024-02-25 22:44:02,326 - DEBUG - push ImageOutport Output1
+2024-02-25 22:44:02,326 - DEBUG - pop widget ImageOutport Output1
+2024-02-25 22:44:02,326 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,327 - DEBUG - uiname is ImageOutport
+2024-02-25 22:44:02,327 - DEBUG - toplevel widget is ImageOutport
+2024-02-25 22:44:02,327 - DEBUG - setting property geometry
+2024-02-25 22:44:02,327 - DEBUG - setting property windowTitle
+2024-02-25 22:44:02,327 - DEBUG - setting property styleSheet
+2024-02-25 22:44:02,327 - DEBUG - push ImageOutport ImageOutport
+2024-02-25 22:44:02,327 - DEBUG - push QGridLayout gridLayout
+2024-02-25 22:44:02,327 - DEBUG - push QVBoxLayout verticalLayout
+2024-02-25 22:44:02,328 - DEBUG - push QComboBox FTCombobox
+2024-02-25 22:44:02,328 - DEBUG - pop widget QComboBox FTCombobox
+2024-02-25 22:44:02,328 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8cadd80>
+2024-02-25 22:44:02,328 - DEBUG - push QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,329 - DEBUG - push GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,329 - DEBUG - pop widget GraphicsLayoutWidget ImageWidget
+2024-02-25 22:44:02,329 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8cadd80>
+2024-02-25 22:44:02,330 - DEBUG - push GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,330 - DEBUG - pop widget GraphicsLayoutWidget FTWidget
+2024-02-25 22:44:02,330 - DEBUG - new topwidget <ImageOutport.ImageOutport object at 0x7f0af8cadd80>
+2024-02-25 22:44:02,330 - DEBUG - pop layout QHBoxLayout horizontalLayout
+2024-02-25 22:44:02,330 - DEBUG - pop layout QVBoxLayout verticalLayout
+2024-02-25 22:44:02,330 - DEBUG - pop layout QGridLayout gridLayout
+2024-02-25 22:44:02,330 - DEBUG - pop widget ImageOutport ImageOutport
+2024-02-25 22:44:02,330 - DEBUG - new topwidget None
+2024-02-25 22:44:02,340 - DEBUG - setting property sizePolicy
+2024-02-25 22:44:02,340 - DEBUG - setting property maximumSize
+2024-02-25 22:44:02,340 - DEBUG - push ImageOutport Output2
+2024-02-25 22:44:02,340 - DEBUG - pop widget ImageOutport Output2
+2024-02-25 22:44:02,340 - DEBUG - new topwidget <PyQt5.QtWidgets.QWidget object at 0x7f0b0698e7a0>
+2024-02-25 22:44:02,341 - DEBUG - pop layout QVBoxLayout verticalLayout_6
+2024-02-25 22:44:02,341 - DEBUG - pop layout QHBoxLayout horizontalLayout_8
+2024-02-25 22:44:02,341 - DEBUG - pop layout QVBoxLayout verticalLayout_7
+2024-02-25 22:44:02,341 - DEBUG - pop layout QGridLayout gridLayout
+2024-02-25 22:44:02,341 - DEBUG - pop widget QWidget centralwidget
+2024-02-25 22:44:02,341 - DEBUG - new topwidget <__main__.MixerWindow object at 0x7f0b0698e560>
+2024-02-25 22:44:02,344 - DEBUG - setting property geometry
+2024-02-25 22:44:02,344 - DEBUG - push QMenuBar menubar
+2024-02-25 22:44:02,344 - DEBUG - pop widget QMenuBar menubar
+2024-02-25 22:44:02,344 - DEBUG - new topwidget <__main__.MixerWindow object at 0x7f0b0698e560>
+2024-02-25 22:44:02,344 - DEBUG - push QStatusBar statusbar
+2024-02-25 22:44:02,344 - DEBUG - pop widget QStatusBar statusbar
+2024-02-25 22:44:02,344 - DEBUG - new topwidget <__main__.MixerWindow object at 0x7f0b0698e560>
+2024-02-25 22:44:02,344 - DEBUG - pop widget MixerWindow MainWindow
+2024-02-25 22:44:02,345 - DEBUG - new topwidget None
+2024-02-25 22:44:08,512 - INFO - Image Loaded
+2024-02-25 22:44:11,304 - DEBUG - Normalization Factor: 1
+2024-02-25 22:44:11,438 - DEBUG - Weight: 1.0
+2024-02-25 22:44:11,442 - DEBUG - Mode: [[7357.         2223.09048168 1105.90480522 ... 4343.66756232
+  1105.90480522 2223.09048168]
+ [1188.80791457 1479.9379529   445.33610616 ...  656.69627759
+   704.25407883  621.52670064]
+ [1103.10049121 1678.55357912 1656.59222347 ... 1444.85166335
+   703.89385335 1062.8258877 ]
+ ...
+ [3362.0613143  1093.0052354   271.33688809 ... 3356.7853097
+  1884.819822   1674.37180683]
+ [1103.10049121 1062.8258877   703.89385335 ... 2107.05053299
+  1656.59222347 1678.55357912]
+ [1188.80791457  621.52670064  704.25407883 ...  369.29967075
+   445.33610616 1479.9379529 ]]
+2024-02-25 22:44:11,442 - DEBUG - Comp Mode: [[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
+2024-02-25 22:44:17,298 - DEBUG - Normalization Factor: 1
+2024-02-25 22:44:17,499 - DEBUG - Weight: 1.0
+2024-02-25 22:44:17,503 - DEBUG - Mode: [[ 7357.          1181.90332835  -946.61734988 ... -2576.62763975
+   -946.61734988  1181.90332835]
+ [ 1072.47573156   648.60320236   202.76157844 ...   127.34701945
+   -197.1716641   -567.53162334]
+ [-1001.04641584  -332.02924104  1189.02162171 ... -1037.64371551
+    402.33308611   525.54103456]
+ ...
+ [-3204.06901488  -868.74491427   239.0010219  ...  3152.87193167
+   -626.67864858 -1360.88437092]
+ [-1001.04641584   525.54103456   402.33308611 ...  1880.73312484
+   1189.02162171  -332.02924104]
+ [ 1072.47573156  -567.53162334  -197.1716641  ...  -283.40666292
+    202.76157844   648.60320236]]
+2024-02-25 22:44:17,503 - DEBUG - Comp Mode: [[0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ ...
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]
+ [0. 0. 0. ... 0. 0. 0.]]
