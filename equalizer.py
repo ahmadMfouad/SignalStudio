@@ -4,10 +4,8 @@ from pydub import AudioSegment
 from pydub.playback import _play_with_simpleaudio
 from PyQt5 import uic
 from PyQt5.QtWidgets import QMainWindow, QApplication, QFileDialog, QDialog
-from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import QTimer
 import pyqtgraph as pg
-from pyqtgraph.Qt import QtGui
 from scipy.signal import spectrogram
 import numpy as np
 import pandas as pd
