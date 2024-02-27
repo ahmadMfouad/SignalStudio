@@ -8,7 +8,6 @@ from PyQt5.QtCore import QTimer                             # Importing QTimer f
 import pyqtgraph as pg                                      # Importing pyqtgraph for interactive graphing, plotting, and data visualization.
 from pyqtgraph import ScatterPlotItem                       # Importing ScatterPlotItem for creating scatter plot elements in pyqtgraph.
 from scipy.interpolate import interp1d                      # Importing interpolation and filtering functions from SciPy for data processing.
-from scipy.signal import butter, lfilter                    # Importing Filtering Signals in Digital Signal Processing
 import wfdb                                                 # Importing wfdb for reading and writing files in PhysioBank format.
 import numpy as np                                          # Importing NumPy for numerical operations on arrays and matrices.
 from math import floor                                      # Importing floor function from math module for mathematical floor operation.
